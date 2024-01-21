@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+pandas
+requests
+openai
+playsound
+pydub
