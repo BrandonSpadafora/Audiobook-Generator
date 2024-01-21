@@ -23,9 +23,8 @@ and finally, I'd have to combine everything in another piece of software like ga
 ## Configuration
 You need to set up API keys for OpenAI and ElevenLabs. These keys should be stored in a .env file at the root of the project with the following format:
 
-arduino
-Copy code
 OPENAI_API_KEY='your_openai_api_key_here'
+
 ELEVENLABS_API_KEY='your_elevenlabs_api_key_here'
 
 
