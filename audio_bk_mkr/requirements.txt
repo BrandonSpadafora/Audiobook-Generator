@@ -1,8 +1,8 @@
 streamlit
+elevenlabs
 python-dotenv
 pandas
 requests
 openai
 playsound
 pydub
-elevenlabs==0.2.15
