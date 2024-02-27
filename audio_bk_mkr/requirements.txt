@@ -1,5 +1,5 @@
 streamlit
-elevenlabs==0.1.1
+elevenlabs
 python-dotenv
 pandas
 requests
