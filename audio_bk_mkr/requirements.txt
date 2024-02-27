@@ -6,3 +6,4 @@ openai
 playsound
 pydub
 elevenlabs.client
+elevenlabs
