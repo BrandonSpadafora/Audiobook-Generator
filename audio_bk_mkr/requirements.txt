@@ -1,5 +1,4 @@
 streamlit
-elevenlabslib
 elevenlabs
 python-dotenv
 pandas
