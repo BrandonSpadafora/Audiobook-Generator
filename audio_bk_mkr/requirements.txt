@@ -1,6 +1,5 @@
 streamlit
 elevenlabs
-voices
 python-dotenv
 pandas
 requests
