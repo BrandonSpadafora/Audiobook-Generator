@@ -5,4 +5,4 @@ requests
 openai
 playsound
 pydub
-elevenlabs==0.3.0b0
+elevenlabs==0.2.15
